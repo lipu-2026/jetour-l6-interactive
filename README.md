@@ -4,9 +4,11 @@
 
 ## 打开方式
 
+**在线体验：[打开捷途山海 L6 交互解剖](https://lipu-2026.github.io/jetour-l6-interactive/)**
+
 直接用浏览器打开 `index.html` 即可，全部图片、样式和脚本已内嵌，无需安装依赖或联网。
 
-也可使用 GitHub Pages：在仓库 Settings → Pages 中选择 Deploy from a branch，发布分支选择 main，目录选择 / (root)。
+本仓库已开启 GitHub Pages，从 main 分支的根目录发布。
 
 ## 交互
 
